@@ -1,0 +1,3 @@
+# HadoopThetaJoins
+
+Simple Hadoop assignment
